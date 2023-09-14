@@ -32,3 +32,4 @@
 ## Adicionais
 - Caso tenha dificuldade em importar o pacote mqtt, utilize o comando "pip3 install paho-mqtt" no terminal da IDE.
 - Link para o manager broker (MQTT): https://www.hivemq.com/demos/websocket-client/
+- Link para o manager MyDevices: https://cayenne.mydevices.com/
