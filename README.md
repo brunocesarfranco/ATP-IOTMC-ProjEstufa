@@ -31,3 +31,5 @@
 
 ## Adicionais
 - Caso tenha dificuldade em importar o pacote mqtt, utilize o comando "pip3 install paho-mqtt" no terminal da IDE.
+- Em caso de reutilização do codigo, altere a variavel "client_id" para satisfazer as condições para conexão.
+- Link para o manager broker (MQTT): https://www.hivemq.com/demos/websocket-client/
