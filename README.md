@@ -4,8 +4,9 @@
 ## Requisitos de Usuário
 - O sistema monitora a temperatura de duas estufas distintas;
 - As temperaturas são exibidas em graus Celsius (˚C);
-- Há um painel (dashboard) que pode ser visualizado em um Tablet ou computador, exibindo a informação de cada estufa. - Neste painel também há um botão que permite habilitar ou não o controle de temperatura das duas estufas;
--O sistema mantém a temperatura próxima aos 30˚C (temperatura ideal).
+- Há um painel (dashboard) que pode ser visualizado em um Tablet ou computador, exibindo a informação de cada estufa;
+- Neste painel também há um botão que permite habilitar ou não o controle de temperatura das duas estufas;
+- O sistema mantém a temperatura próxima aos 30˚C (temperatura ideal).
 
 ## Requisitos de Sistema
 
