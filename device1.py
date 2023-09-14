@@ -1,17 +1,14 @@
 import paho.mqtt.client as mqtt
 import time
 from hal import temperatura, umidade, aquecedor
+from definitions import user, password, client_id, server, port
 
-user = ''
-password = ''
-client_id = 'clientId-pdNgIL1L80'
-server = 'mqtt-dashboard.com'
-port = 1883
-
+# Conexão Inicial
 client = mqtt.Client(client_id)
 client.username_pw_set(user, password)
 client.connect(server, port)
 
+# Comportamento do Sistema
 while True:
     client.publish('pucpr/iotmc/brunofranco/temperatura', temperatura())
     client.publish('pucpr/iotmc/brunofranco/umidade', umidade())
