@@ -25,6 +25,10 @@
 ## Diagrama de arquitetura
 ![image](https://github.com/brunocesarfranco/ATP-IOTMundoConec-ProjEstufa/assets/80123383/c2a671dc-759f-40f1-8564-f5fdd80b5580)
 
+## Dashboard Cayenne
+![dashboardEstufasCayenneBotoesAtivos](https://github.com/brunocesarfranco/ATP-IOTMundoConec-ProjEstufa/assets/80123383/f648822a-9039-4744-b2f4-4c760cfda04b)
+
+
 ## Detalhes tecnicos
 - IDE utilizada: Visual Studio Code
 - Linguagem: Python 3.8.1
