@@ -26,7 +26,7 @@
 ![image](https://github.com/brunocesarfranco/ATP-IOTMundoConec-ProjEstufa/assets/80123383/c2a671dc-759f-40f1-8564-f5fdd80b5580)
 
 ## Dashboard Cayenne
-![dashboardEstufasCayenneBotoesAtivos](https://github.com/brunocesarfranco/ATP-IOTMundoConec-ProjEstufa/assets/80123383/f648822a-9039-4744-b2f4-4c760cfda04b)
+![dashboardEstufasCayenneBotoesAtivos](https://github.com/brunocesarfranco/ATP-IOTMC-ProjEstufa/assets/80123383/bfd0da47-8246-4a07-81c1-90a7a7314a55)
 
 
 ## Detalhes tecnicos
