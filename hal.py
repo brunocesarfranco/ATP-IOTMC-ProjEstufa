@@ -1,16 +1,28 @@
-#HAL (Hardware Abstraction Layer/Camada de Abstração de Hardware)
-
 import random
+from time import time
+from tkinter import W
 
-def temperatura():
-    return random.randrange(2, 40)
+#Camada de Abstração de Hardware 
 
-def umidade():
-    return random.randrange(10, 95)
-
-def aquecedor(estado: str):
+def aquecedor (estado: str):
     if estado == 'on':
-        print('Aquecedor ligado.')
-    
+        print ('Aquecedor LIGADO')
     else:
-        print('Aquecedor desligado.')
+        print('Aquecedor DESLIGADO')
+
+
+def rele(estado: str):
+    if estado == 'on':
+        print('Rele ligado!')
+    else:
+        print('Rele desligado!')
+    aquecedor(estado)
+    print('========================================')
+
+
+def temperaturaEstufa1 ():
+    return random.randrange (0,40)    
+
+
+def temperaturaEstufa2():
+    return random.randrange (0,40)
