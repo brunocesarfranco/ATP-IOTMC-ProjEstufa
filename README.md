@@ -28,6 +28,7 @@
 ## Dashboard Cayenne
 ![dashboardEstufasCayenneBotoesAtivos](https://github.com/brunocesarfranco/ATP-IOTMC-ProjEstufa/assets/80123383/bfd0da47-8246-4a07-81c1-90a7a7314a55)
 
+https://github.com/brunocesarfranco/ATP-IOTMC-ProjEstufa/assets/80123383/39c2fde6-46c7-4010-a053-0e600a1b8630
 
 ## Detalhes tecnicos
 - IDE utilizada: Visual Studio Code
