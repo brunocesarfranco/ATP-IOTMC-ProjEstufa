@@ -22,7 +22,7 @@
 - O protocolo de comunicação a ser utilizado deve ser o MQTT;
 - O serviço em nuvem utilizado será o Cayenne myDevices (www.cayenne.mydevices.com);
 
-## Digrama de arquitetura
+## Diagrama de arquitetura
 ![image](https://github.com/brunocesarfranco/ATP-IOTMundoConec-ProjEstufa/assets/80123383/c2a671dc-759f-40f1-8564-f5fdd80b5580)
 
 ## Detalhes tecnicos
