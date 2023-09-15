@@ -6,4 +6,3 @@ client_id2 = '3cf4fe10-5372-11ee-8485-5b7d3ef089d0'
 server = 'mqtt.mydevices.com'
 port = 1883
 tempIdeal = 30
-
