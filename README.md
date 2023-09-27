@@ -1,6 +1,11 @@
 # ATP-IOTMC-ProjEstufa
  Projeto desenvolvido em Python para a matéria de Internet das Coisas em um Mundo Conectado na PUCPR.
 
+## Dashboard Cayenne
+![dashboardEstufasCayenneBotoesAtivos](https://github.com/brunocesarfranco/ATP-IOTMC-ProjEstufa/assets/80123383/bfd0da47-8246-4a07-81c1-90a7a7314a55)
+
+https://github.com/brunocesarfranco/ATP-IOTMC-ProjEstufa/assets/80123383/39c2fde6-46c7-4010-a053-0e600a1b8630
+
 ## Requisitos de Usuário
 - O sistema monitora a temperatura de duas estufas distintas;
 - As temperaturas são exibidas em graus Celsius (˚C);
@@ -24,11 +29,6 @@
 
 ## Diagrama de arquitetura
 ![image](https://github.com/brunocesarfranco/ATP-IOTMundoConec-ProjEstufa/assets/80123383/c2a671dc-759f-40f1-8564-f5fdd80b5580)
-
-## Dashboard Cayenne
-![dashboardEstufasCayenneBotoesAtivos](https://github.com/brunocesarfranco/ATP-IOTMC-ProjEstufa/assets/80123383/bfd0da47-8246-4a07-81c1-90a7a7314a55)
-
-https://github.com/brunocesarfranco/ATP-IOTMC-ProjEstufa/assets/80123383/39c2fde6-46c7-4010-a053-0e600a1b8630
 
 ## Detalhes tecnicos
 - IDE utilizada: Visual Studio Code
